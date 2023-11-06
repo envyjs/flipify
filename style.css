@@ -1,7 +1,7 @@
 @import url("https://dsans.davidstudios.uk/css2.css");
+background: rgb(42,2,71);
+background: linear-gradient(90deg, rgba(42,2,71,1) 0%, rgba(186,0,255,1) 100%);
 body {
-    background: rgb(42,2,71);
-    background: linear-gradient(90deg, rgba(42,2,71,1) 0%, rgba(186,0,255,1) 100%);
     color: white;
     font-family: "DSans Regular", system-ui,
       Roboto, Oxygen, Ubuntu, Cantarell, 'Vazirmatn', sans-serif;
